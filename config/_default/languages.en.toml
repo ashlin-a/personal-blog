@@ -1,0 +1,24 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Ashlin Blog"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Here I write my experiments and experiences with new tech"
+logo = "false"
+
+[[params.author.links]]
+github = "https://github.com/ashlin-a"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/simpleashlin"
+
+["params.author"]
+name = "Ashlin Asokan"
+bio = "Web Developer"
+image = "Profile-Picture.jpg"
